@@ -4,7 +4,7 @@
 
 /* DEFAULT STYLE: FONT SIZE, BACKGROUND IMAGE, FONT, ETC. */
 :root {
-  font-size: 24px;
+  font-size: 20px;
   background: 
     repeating-conic-gradient(#b3ffcc 0 25%, #fe95de 0 50%) 
       50% / 20px 20px;
